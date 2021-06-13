@@ -1,0 +1,22 @@
+{
+  "configurations" : [
+    {
+      "id" : "0DC66076-D22E-42E5-ABCC-AB0217FCD965",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:InspoQuotes.xcodeproj",
+      "identifier" : "AD18A83921285CAF00F6BF05",
+      "name" : "InspoQuotes"
+    }
+  },
+  "testTargets" : [
+
+  ],
+  "version" : 1
+}
